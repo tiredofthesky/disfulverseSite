@@ -14,7 +14,7 @@
 
                 <!-- Разработчик 1 -->
                 <div class="card mt-4 p-2">
-                    <h4>Renz0</h4>
+                    <h4>Renz0_</h4>
                 
                     <p> <i class="fab fa-discord"> </i> <span style="color: #7289da; font-weight: bold">.renz0_</span></p>
                 </div>
